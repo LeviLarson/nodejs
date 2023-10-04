@@ -4,7 +4,7 @@
   "description": "this is levis project",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "hello":"node helloworld.js"
   },
   "author": "",
   "license": "ISC"
